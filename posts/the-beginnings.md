@@ -1,6 +1,3 @@
-layout: post
-comments: true
-
 # The Japan trip
 ### Renting out the house
 We would not be able to do this trip with a economical baggage of a mortgage interest and living expenses so finding a nice couple to take care of our house is a must. Shouldn’t be hard in a capital city but without any previous experience it took a bit longer than necessary. 
